@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iboyoodoh.intechnik.pl/sitemap.xml
